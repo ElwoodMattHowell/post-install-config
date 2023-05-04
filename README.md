@@ -48,8 +48,8 @@ Our first task in the admin panel will be to configure Roles.  Roles are the per
 
 
 <p float="left">
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-departments.png" height="40%" width="40%" alt="install/enable iis"/>
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-department.png" height="40%" width="30%" alt="IIS homepage">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-departments.png" height="40%" width="45%" alt="install/enable iis"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-department.png" height="40%" width="25%" alt="IIS homepage">
 </p>
 
 
