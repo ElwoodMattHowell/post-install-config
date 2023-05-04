@@ -69,8 +69,8 @@ Continuing our configurations, we will now configure Teams.  Teams allow you to 
 
 
 <p float="left">
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents.png" height="40%" width="35%" alt="install/enable iis"/>
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-new-agent.png" height="40%" width="25%" alt="IIS homepage">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents.png" height="40%" width="40%" alt="install/enable iis"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-new-agent.png" height="40%" width="20%" alt="IIS homepage">
     <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-access.png" height="40%" width="35%" alt="IIS homepage">
 </p>
 
