@@ -37,9 +37,9 @@ If you have not set up osTicket, please checkout https://github.com/elwoodmattho
 
 
 <p float="left">
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-users.png" height="40%" width="40%" alt="install/enable iis"/>
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-roles-name.png" height="40%" width="30%" alt="IIS homepage">
-   <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-roles-permissions.png" height="40%" width="25%" alt="IIS homepage">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-users.png" height="40%" width="40%" alt="configure roles"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-roles-name.png" height="40%" width="30%" alt="configure roles">
+   <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-roles-permissions.png" height="40%" width="25%" alt="configure rolese">
 </p>
 
 
@@ -48,8 +48,8 @@ Our first task in the admin panel will be to configure Roles.  Roles are the per
 
 
 <p float="left">
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-departments.png" height="40%" width="45%" alt="install/enable iis"/>
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-department.png" height="40%" width="25%" alt="IIS homepage">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-departments.png" height="40%" width="45%" alt="configure departments"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-department.png" height="40%" width="25%" alt="configure departments">
 </p>
 
 
@@ -58,9 +58,9 @@ Our next task will be to configure Departments.  For more information on Departm
 
 
 <p float="left">
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-teams.png" height="40%" width="35%" alt="install/enable iis"/>
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-teams-team.png" height="40%" width="25%" alt="IIS homepage">
-    <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-teams-members.png" height="40%" width="35%" alt="IIS homepage">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-teams.png" height="40%" width="35%" alt="configure teams"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-teams-team.png" height="40%" width="25%" alt="configure teams">
+    <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-teams-members.png" height="40%" width="35%" alt="configure teams">
 </p>
 
 
@@ -69,9 +69,9 @@ Continuing our configurations, we will now configure Teams.  Teams allow you to 
 
 
 <p float="left">
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents.png" height="40%" width="40%" alt="install/enable iis"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents.png" height="40%" width="40%" alt="configure agents"/>
   <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-new-agent.png" height="40%" width="20%" alt="IIS homepage">
-    <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-access.png" height="40%" width="35%" alt="IIS homepage">
+    <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-access.png" height="40%" width="35%" alt="configure agents">
 </p>
 
 
@@ -80,8 +80,8 @@ Next, we will configure Agents.  Agents are given access to the help desk with t
 
 
 <p float="left">
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agent-users.png" height="40%" width="45%" alt="install/enable iis"/>
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-user.png" height="40%" width="35%" alt="IIS homepage">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agent-users.png" height="40%" width="45%" alt="configure users"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-user.png" height="40%" width="35%" alt="configure users">
 </p>
 
 
@@ -90,8 +90,8 @@ Now we move on to Users.  Users are the ticket owners of the tickets in the help
 
 
 <p float="left">
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-manage-sla.png" height="40%" width="45%" alt="install/enable iis"/>
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-sla.png" height="40%" width="35%" alt="IIS homepage">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-manage-sla.png" height="40%" width="45%" alt="configure SLA"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-sla.png" height="40%" width="35%" alt="configure SLA">
 </p>
 
 
@@ -100,10 +100,10 @@ Next up, we will configure our SLA Plans.  The purpose of the SLA Plan is to pro
 
 
 <p float="left">
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-helptopic.png" height="40%" width="45%" alt="install/enable iis"/>
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-helptopic-options.png" height="40%" width="35%" alt="IIS homepage">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-helptopic.png" height="40%" width="45%" alt="configure Help Topics"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-helptopic-options.png" height="40%" width="35%" alt="configure Help Topics">
 </p>
 
 
-Our final configuration will be of Help Topics.  Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket.  For more information on SLA plans in osTicket, please visit https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html?highlight=help%20topics.  From the _Admin Panel_ click through _Manage_ -> _Help Topics_, and click _Add New Help Topic_.  HUnder the _Help Topic Information_ tab, you can enter a name for the Help Topic.  Under the _New ticket options_ tab you can set priorities and assign an SLA Plan among other options.  When you have configured your Help Topic, you can click _Add Topic_.  You are now ready to use osTicket!
+Our final configuration will be of Help Topics.  Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket.  For more information on SLA plans in osTicket, please visit https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html?highlight=help%20topics.  From the _Admin Panel_ click through _Manage_ -> _Help Topics_, and click _Add New Help Topic_.  Under the _Help Topic Information_ tab, you can enter a name for the Help Topic.  Under the _New ticket options_ tab you can set priorities and assign an SLA Plan among other options.  When you have configured your Help Topic, you can click _Add Topic_.  You are now ready to use osTicket!
 <br />
