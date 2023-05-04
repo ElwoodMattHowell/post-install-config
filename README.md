@@ -77,3 +77,13 @@ Continuing our configurations, we will now configure Teams.  Teams allow you to 
 
 Next, we will configure Agents.  Agents are given access to the help desk with the intent to respond and resolve the tickets.  For more information on Agents, please visit https://docs.osticket.com/en/latest/Admin/Agents/Agents.html.  From the Admin Panel, click through _Agents_ -> _Agents_, and click _Add New Agent_.  Fill in _First Name_ and _Last Name_, and _Email Address_. We can leave phone number blank for now.  Create a _Username_.  Click the _Access_ tab, under _Primary Department_, select a _Department_ and a _Role_.  Leave _Permissions_ as they are, and under the _Teams_ tab you can select a team.  Now click _Create_.     
 <br />
+
+
+<p float="left">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agent-users.png" height="40%" width="45%" alt="install/enable iis"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-user.png" height="40%" width="35%" alt="IIS homepage">
+</p>
+
+
+Now we move on to Users.  Users are the ticket owners of the tickets in the help desk.  For more information on Users, please visit https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html.  From the Admin Panel, in the upper right corner, click _Agent Panel_.  Under the _Users_ tab, click _Add User_.  Fill out _Email Address_ and _Full Name_ and then click _Add User_.     
+<br />
