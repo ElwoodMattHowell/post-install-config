@@ -55,3 +55,14 @@ Our first task in the admin panel will be to configure Roles.  Roles are the per
 
 Our next task will be to configure Departments.  For more information on Departments, please visit https://docs.osticket.com/en/latest/Admin/Agents/Departments.html.  From the Admin Panel, click through _Agents_ -> _Departments_, and click _Add New Department_.  In the _Name_ box, type 'System Administrators' or whatever you would like your department to be called.  For the purposes of this exercise, we will leave the rest of the default settings in place.  At the bottom of the page, click _Create Dept_.     
 <br />
+
+
+<p float="left">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-teams.png" height="40%" width="45%" alt="install/enable iis"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-teams-team.png" height="40%" width="25%" alt="IIS homepage">
+    <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-teams-members.png" height="40%" width="25%" alt="IIS homepage">
+</p>
+
+
+Continuing our configurations, we will now configure Teams.  Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.  For more information on Teams, please visit https://docs.osticket.com/en/latest/Admin/Agents/Teams.html.  From the Admin Panel, click through _Agents_ -> _Teams_, and click _Add New Team_.  In the _Name_ box, type 'Level II Support' or whatever you would like your Team to be called.  Under the _Members_ tab, click the drop down arrow next to _Select Agent_.  You should see your name there, click your name and then _Add_.  Back under the _Teams_ tab, you should now be able to assign yourself as _Team Lead_.  Click _Create Team_.     
+<br />
