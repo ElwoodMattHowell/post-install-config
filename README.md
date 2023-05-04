@@ -58,11 +58,22 @@ Our next task will be to configure Departments.  For more information on Departm
 
 
 <p float="left">
-  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-teams.png" height="40%" width="45%" alt="install/enable iis"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-teams.png" height="40%" width="35%" alt="install/enable iis"/>
   <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-teams-team.png" height="40%" width="25%" alt="IIS homepage">
-    <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-teams-members.png" height="40%" width="25%" alt="IIS homepage">
+    <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-teams-members.png" height="40%" width="35%" alt="IIS homepage">
 </p>
 
 
 Continuing our configurations, we will now configure Teams.  Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.  For more information on Teams, please visit https://docs.osticket.com/en/latest/Admin/Agents/Teams.html.  From the Admin Panel, click through _Agents_ -> _Teams_, and click _Add New Team_.  In the _Name_ box, type 'Level II Support' or whatever you would like your Team to be called.  Under the _Members_ tab, click the drop down arrow next to _Select Agent_.  You should see your name there, click your name and then _Add_.  Back under the _Teams_ tab, you should now be able to assign yourself as _Team Lead_.  Click _Create Team_.     
+<br />
+
+
+<p float="left">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents.png" height="40%" width="35%" alt="install/enable iis"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-new-agent.png" height="40%" width="25%" alt="IIS homepage">
+    <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-agents-access.png" height="40%" width="35%" alt="IIS homepage">
+</p>
+
+
+Next, we will configure Agents.  Agents are given access to the help desk with the intent to respond and resolve the tickets.  For more information on Agents, please visit https://docs.osticket.com/en/latest/Admin/Agents/Agents.html.  From the Admin Panel, click through _Agents_ -> _Agents_, and click _Add New Agent_.  Fill in _First Name_ and _Last Name_, and _Email Address_. We can leave phone number blank for now.  Create a _Username_.  Click the _Access_ tab, under _Primary Department_, select a _Department_ and a _Role_.  Leave _Permissions_ as they are, and under the _Teams_ tab you can select a team.  Now click _Create_.     
 <br />
