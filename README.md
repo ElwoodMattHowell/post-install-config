@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ElwoodMattHowell/images/blob/main/osTicket-admin.png" height="80%" width="80%" alt="osTicket admin panel"/>
 </p>
 <p>
 If you have not set up osTicket, please checkout https://github.com/elwoodmatthowell/osticket-prereqs for instructions on how to do so.  If you have osTicket set up and ready to go, copy and paste http://localhost/osTicket/scp/login.php to your browser.  There you will be prompted for a username and password.  Enter the administrator username and password you used in the osTicket ser up. Once you have logged in you will be brought directly to the _Admin Panel_.
