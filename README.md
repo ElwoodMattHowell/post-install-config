@@ -97,3 +97,13 @@ Now we move on to Users.  Users are the ticket owners of the tickets in the help
 
 Next up, we will configure our SLA Plans.  The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.  For more information on SLA plans in osTicket, please visit https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html.  First, navigate back to the _Admin Panel_.  From the _Admin Panel_ click through _Manage_ -> _SLA_, and click _Add New SLA Plan_.  You can add as many SLA Plans as are needed.  Typical names might be SEV-A, SEV-B, SEV-C, or something similar.  _Grace Period_ indicates the number of hours in which tickets must be resolved.  Schedule has 3 choices, 24-7 (all day everyday), 24-5(all day workweek), or Monday-Friday, 8am-5pm(workdays during the work week).  Make choices for allof these and click _Add Plan_ 
 <br />
+
+
+<p float="left">
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-add-helptopic.png" height="40%" width="45%" alt="install/enable iis"/>
+  <img src="https://github.com/ElwoodMattHowell/images/blob/main/osticket-helptopic-options.png" height="40%" width="35%" alt="IIS homepage">
+</p>
+
+
+Our final configuration will be of Help Topics.  Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket.  For more information on SLA plans in osTicket, please visit https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html?highlight=help%20topics.  From the _Admin Panel_ click through _Manage_ -> _Help Topics_, and click _Add New Help Topic_.  HUnder the _Help Topic Information_ tab, you can enter a name for the Help Topic.  Under the _New ticket options_ tab you can set priorities and assign an SLA Plan among other options.  When you have configured your Help Topic, you can click _Add Topic_.  You are now ready to use osTicket!
+<br />
