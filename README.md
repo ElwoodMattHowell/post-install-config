@@ -95,7 +95,7 @@ Now we move on to Users.  Users are the ticket owners of the tickets in the help
 </p>
 
 
-Next up, we will configure our SLA Plans.  The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.  For more information on SLA plans in osTicket, please visit https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html.  First, navigate back to the _Admin Panel_.  From the _Admin Panel_ click through _Manage_ -> _SLA_, and click _Add New SLA Plan_.  You can add as many SLA Plans as are needed.  Typical names might be SEV-A, SEV-B, SEV-C, or something similar.  _Grace Period_ indicates the number of hours in which tickets must be resolved.  Schedule has 3 choices, 24-7 (all day everyday), 24-5(all day workweek), or Monday-Friday, 8am-5pm(workdays during the work week).  Make choices for allof these and click _Add Plan_ 
+Next up, we will configure our SLA Plans.  The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.  For more information on SLA plans in osTicket, please visit https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html.  First, navigate back to the _Admin Panel_.  From the _Admin Panel_ click through _Manage_ -> _SLA_, and click _Add New SLA Plan_.  You can add as many SLA Plans as are needed.  Typical names might be SEV-A, SEV-B, SEV-C, or something similar.  _Grace Period_ indicates the number of hours in which tickets must be resolved.  Schedule has 3 choices, 24-7 (all day everyday), 24-5(all day workweek), or Monday-Friday, 8am-5pm(workdays during the work week).  Make choices for all of these and click _Add Plan_ 
 <br />
 
 
